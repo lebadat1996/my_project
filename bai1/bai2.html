@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BAI 2</title>
+</head>
+<body>
+<ul>
+    <li>VIET NAM</li>
+</ul>
+<ol>
+    <li>   HA NOI</li>
+    <li>   HUE</li>
+    <li>   DA NANG</li>
+</ol>
+<ul>
+   <li>HOA KI</li>
+</ul>
+<ol>
+    <li>NEW YORK</li>
+    <li>Los Angeles</li>
+    <li>Chicago</li>
+    <li>HOUSTON</li>
+</ol>
+<ul>
+    <li>TRUNG QUOC</li>
+</ul>
+<ol>
+    <li>Beijing</li>
+    <li>Chongqing</li>
+    <li>Shanghai</li>
+    <liv>Tianjin</liv>
+</ol>
+</body>
+</html>
